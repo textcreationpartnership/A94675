@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the right honourable, the peeres assembled in Parliament The humble petition of the sheriffe, knights, esquires, gentlemen, ministers, freeholders and others inhabitants of the county of Bedford.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94675</idno>
+            <idno type="STC">Wing T1707</idno>
+            <idno type="STC">Thomason 669.f.4[82]</idno>
+            <idno type="STC">ESTC R210310</idno>
+            <idno type="EEBO-CITATION">99869119</idno>
+            <idno type="PROQUEST">99869119</idno>
+            <idno type="VID">160704</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160704)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f4[82])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the right honourable, the peeres assembled in Parliament The humble petition of the sheriffe, knights, esquires, gentlemen, ministers, freeholders and others inhabitants of the county of Bedford.</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>1 sheet ([1]  p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed on Bread-street-hill by a true copy, with the petitioners approbation, at the charge of John Chambers,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Includes: To the right honourable, the knights, citizens, and Burgesses in the Commons House of Parliament assembled. The humble petition of the hign sheriffe, knights, esquires, gentlemen, ministers, freeholders and others inhabitants of the county of Bedford.</note>
+                  <note>The first petition thanks the Lords for their help to the Commons. The second thanks the Commons for the Ordinance for the Militia and asks for the relief of Ireland, disarmament of Papists, and the appointment of faithfull ministers. -- Steele.</note>
+                  <note>With an order to print by the House of Commons, signed: Hen. Elsinge Cler. Dom. Com.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  Great Britain --  17th century --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Militia --  Early works to 1800.</term>
+               <term>Bedfordshire (England) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:160704:1" rendition="simple:additions"/>
+            <head>TO THE RIGHT HONOURABLE,
+THE PEERES ASSEMBLED IN PARLIAMENT.
+The humble Petition of the high Sheriffe, Knights, Eſquires, Gentlemen, Miniſters, Freeholders and others Inhabi<g ref="char:EOLhyphen"/>tants
+of the County of BEDFORD,</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat we are unable to expreſſe our joyes, or declare the thankfulneſſe of all our hearts, for the
+happy concurrence of your Lordſhips with the Honourable Houſe of Commons, upon
+which the proſperity and welfare of our Church and State depends; onely in this ye are able
+(by the bleſsing of God) to effect great and high atchievements, and to lay proſtrate the deſperate plots
+&amp; devices of our wicked adverſaries, whoſe chiefeſt deſigne (as we have juſt cauſe to beleeve) hath bin
+to cut in ſunder this Gordian knot, and by dividing to triumph in our ruine and confuſion. Wee
+moſt humbly therefore ſupplicate your Lordſhips that this bleſſed conſent and unity may long con<g ref="char:EOLhyphen"/>tinue,
+and at this preſent (being a time of great diſtraction) for the perfecting of what you have ſo hap<g ref="char:EOLhyphen"/>pily
+begun for a full and complete reformation of the government, and grievances of this Church and
+Common-wealth: And we, to the laſt of our lives, and utmoſt of our eſtates and fortunes, are reſolved
+of defend His Majeſties Royall Perſon and State, and your Lordſhips in theſe your joynt and honou<g ref="char:EOLhyphen"/>rable
+proceedings. And though you ſhould have no cauſe to need our ſwords, yet for this happy
+conſent and union, and for your Lordſhips proſperity, ſhall ever be the daily and hearty prayers of your
+Petitioners, &amp;c.</p>
+            <p>Sir <hi>John Burgoyne</hi> Baronet, who was intruſted with the delivery of this Petition, had further direction perſonally
+to declare their particular thanks to the Lords for their Concurrence with the Houſe of Commons, in the late Ordinance
+concerning the <hi>Militia,</hi> together with a deſire, that the ſame may be (ſpeedily) put in execution; for which eſpecially,
+as for the reſt in generall, their Lordſhips returned them hearty thankes.</p>
+         </div>
+         <div type="petition">
+            <head>TO THE HONOURABLE, THE KNIGHTS, CITIZENS, AND
+BURGESSES In the Commons Houſe of PARLIAMENT aſſembled.
+The humble Petition of the high Sheriffe, Knights, Eſquires, Gentlemen, Miniſters, Freeholders and others Inhabitants of the County of
+BEDFORD.</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners are truely ſenſible of your pious care, in the reformation of Religion from thoſe ſcandalous
+and ſuperſtitious innovations, which were introduced into the Church, with intent to ſubvert the Proteſtant. Re<g ref="char:EOLhyphen"/>ligion;
+as alſo of your inceſſant labours, prudent Deliberations, and undefatigable paines for the Common-wealth;
+and that with all humble thankfulneſſe they daily bleſſe Almighty God, the Kings Majeſtie, the Peers, and this Ho<g ref="char:EOLhyphen"/>nourable
+Aſſembly, for many excellent Lawes and Ordinances, made and enacted in this preſent Parliament, and eſpecially
+for providing againſt the long intermiſsion of Parliaments, ſuppreſsing the eruptions, and preventing the revivall of illegall
+taxes, aboliſhing the Courts of Star-Chamber and high Commiſsion, regulating of other exorbitant Juriſdictions: For ta<g ref="char:EOLhyphen"/>king
+away the Biſhops Votes in Parliament, and diſabling of all perſons in holy Orders for exerciſing any Temporall
+Juriſdiction or Authoritie; and for the late Ordinance for the diſpoſing the <hi>Militia</hi> of this Kingdome into the hands of ſuch
+honourable and faithfull perſonages, as are therein expreſſed. That your humble Petitioners are immutably reſolved with
+the hazzard of their lives and fortunes, in all juſt and lawfull wayes, to maintaine and defend you in your Rights and Pri<g ref="char:EOLhyphen"/>viledges
+againſt the enemies of God, the King and State, according to their ingagements in the late Proteſtation; and in all
+humility do pray the continuation of your Honourable indeavours, that there may be a ſpeedy advancement of all diſpatches
+for the reliefe of IRELAND. That for the removing of our juſt and increaſing feares, and preventing of imminent dan<g ref="char:EOLhyphen"/>gers,
+the late Ordinance for the <hi>Militia</hi> may be fully and ſpeedily executed. That the Seas may be ſtrongly and ſafely guarded
+under the conduct of perſons of honour, worth and ability. That the Papiſts may be diſ-armed and the moſt dangerous
+of them ſecured; That the Maſſe both publicke and private be aboliſhed; That the undoubted reputation of your late ac<g ref="char:EOLhyphen"/>cuſed
+members may be repaired, and the Priviledges of Parliament effectually vindicated; The ſuffrages of the Recuſant No<g ref="char:EOLhyphen"/>bility
+be excluded from the Houſe of Peers: And that there may be a further diſcovery and removall of thoſe evill Councel<g ref="char:EOLhyphen"/>lours,
+by whoſe pernicious practices the happy progreſſe of the great Affaires of this Kingdome is retarded; That all delin<g ref="char:EOLhyphen"/>quents,
+eſpecially thoſe that have been the principall cauſes of our miſeries, may be ſpeedily brought unto exemplary and
+condigne puniſhment. That all poſsible meanes may be uſed for the prevailing with his Majeſtie that he would be grati<g ref="char:EOLhyphen"/>ouſly
+pleaſed to repaire to, and abide neere his Parliament; And that the Prince, and the reſt of his Majeſties children, may be
+under the care and government of ſuch perſons, in whom this Kingdome may confide; That Manufactures and Trading
+be upheld; That all burdenſome and ſcandalous Ceremonies be taken away, and ſuch an Eccleſiaſticall Diſcipline and Go<g ref="char:EOLhyphen"/>vernment
+as is agreeable to Gods word may bee ſettled, by ſuch wayes and meanes as to your wiſedomes ſhall ſeeme expe<g ref="char:EOLhyphen"/>dient.
+That the Univerſities be purged and reformed. That corrupt and ſcandalous Miniſters may be removed, a learned,
+pious and conſcientious Miniſtery generally ſettled, and ſufficiently maintained, (having an eſpeciall regard and care to
+Market Townes and populous places.) That the pious and painfull Divines, who for unjuſt, and inconſiderable cauſes
+were deprived by the Biſhops, or their Subordinate Officers, may receive ample reparations. That for the compleating the
+happineſſe both of Church and State, there may be as well a faithfull Magiſtracie, as a painfull Miniſterie.</p>
+            <closer>And your humble Petitioners ſhall ever pray, &amp;c.</closer>
+         </div>
+         <div type="Parliamentary_order">
+            <opener>
+               <dateline>
+                  <date>Die Mercurii, Martii 16. 1641.</date>
+               </dateline>
+            </opener>
+            <p>It is this day ordered by the Commons Houſe of Parliament, That Mr. <hi>Speaker,</hi> in the name of the Houſe, ſhall take particular no<g ref="char:EOLhyphen"/>tice
+of, and give the Gentlemen of <hi>Bedford-ſhire</hi> particular thankes for their deſire of the Kings returne to Parliament, and of
+their deſire to have the Ordinance of the <hi>Militia</hi> ſpeedily to be put in execution.</p>
+            <closer>
+               <signed>Hen. Elſinge Cler. Dom. Com.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_receipt">
+            <p>Both which Petitions, being preſented the 16. of March 1641. by the aforenamed Sir <hi>John Burgoyne,</hi> accompanied with about
+two thouſand perſons, were gratefully received, to the ample ſatisfaction of the Petitioners.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed on Bread-ſtreet-hill by a true copy, with the Petitioners approbation, at the charge of <hi>John Chambers,</hi> 1641.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
